@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="HintActionBarEditText"> Enter name </string>
+
+    <string-array name="CountOfLimbs">
+        <item>4</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="Names">
+        <item>Wadim</item>
+        <item>Anna</item>
+        <item>Polina</item>
+        <item>Artem</item>
+        <item>Olga</item>
+    </string-array>
+
+    <string-array name="Surnames">
+        <item>Ivanov</item>
+        <item>Petrova</item>
+        <item>Sidirova</item>
+        <item>Zaharov</item>
+        <item>Sinicina</item>
+    </string-array>
+
+    <string-array name="Telephone_numbers">
+        <item>+375255555555</item>
+        <item>+375298888888</item>
+        <item>+375250000000</item>
+        <item>+375447777777</item>
+        <item>+375441111111</item>
+    </string-array>
+
+    <string-array name="Passwords">
+        <item>0000</item>
+        <item>1111</item>
+        <item>2222</item>
+        <item>3333</item>
+        <item>6666</item>
+    </string-array>
+</resources>
